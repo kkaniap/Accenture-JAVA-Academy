@@ -1,5 +1,5 @@
 # final_repo
-  Repozytorium uczestników szkółki
+  Repozytorium na podsumowanie szkółki
   
 ## struktura repozytorium
 	
